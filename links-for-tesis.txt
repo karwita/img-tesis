@@ -1,1 +1,2 @@
 https://www.youtube.com/watch?v=IIW3mHdDYm4  # Install Git and publish your project in Github using Git in ubuntu 22.04 LTS and newer versions
+https://www.youtube.com/watch?v=9auEJgjVKWM  # How to Upload Jupyter Notebook on Github | Github
