@@ -1,0 +1,1 @@
+attrib -r -a -s -h "D:\Demo\*" /s /d  # Comando para mostrar archivos ocultos
