@@ -3,3 +3,5 @@ https://www.youtube.com/watch?v=9auEJgjVKWM  # How to Upload Jupyter Notebook on
 https://www.youtube.com/c/AquapyIngenier%C3%ADa/playlists  # Migrar a python y dejar exel
 https://www.youtube.com/watch?v=nKjVqBqccZg&list=PLAKj9P7fPCGEG_wMLGLL6RZs2Lw6CvuVN&index=2  # Antecedente de Jupyteter para la tesis,  minuto 2.5+ PANDAS variables de entorno
 https://www.youtube.com/watch?v=rx7wwtmFlD8  # Beamer+ Overleaf System
+https://tex.stackexchange.com/questions/56963/primary-school-operations-with-latex #texto en Linea
+
