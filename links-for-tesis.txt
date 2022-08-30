@@ -5,4 +5,4 @@ https://www.youtube.com/watch?v=nKjVqBqccZg&list=PLAKj9P7fPCGEG_wMLGLL6RZs2Lw6Cv
 https://www.youtube.com/watch?v=rx7wwtmFlD8  # Beamer+ Overleaf System
 https://tex.stackexchange.com/questions/56963/primary-school-operations-with-latex #texto en Linea
 https://www.youtube.com/watch?v=Uxiz-eM_eD8  #GitHub local y en Overleaf
-
+https://www.youtube.com/watch?v=EMvT8tiHJ7o  # cargar pandas, path and excel files
